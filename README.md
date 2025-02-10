@@ -20,7 +20,7 @@ with the intention of attracting and observing malicious activity.
 3. Select an AMI from the list based on your requirements. For this guide, we'll use the [Debian 11 AMI]( https://aws.amazon.com/marketplace/pp/prodview-l5gv52ndg5q6i#pdp-overview).
 
 
-<img src= "https://github.com/yahweh90/Documentation-Practice/blob/main/ab67616d0000b2738ade51c44964e23068d8fd2c.jpg" style="width:500px;">
+<img src= "https://github.com/yahweh90/Documentation-Practice/blob/main/Screenshot%202025-02-09%20212801.png" style="width:750px;">
 
 
 ## Step 5: Update and upgrade OS
@@ -28,3 +28,21 @@ We want to ensure that the proper patches are up to date on this instance, so we
 ```bash
 git clone https://github.com/telekom-security/tpotce.git
 ```
+
+
+## Step 6: Install Git
+1.	We will need git to pull files from github so let’s run this command.
+```bash
+sudo apt install git
+```
+
+
+2.	Click on your security group and then edit inbound rules.
+
+<img src= "https://raw.githubusercontent.com/yahweh90/Documentation-Practice/refs/heads/main/berserk-1997-anime-bluray-cover-saho3kkjqgcfhlwvd5eln3mi5y.avif" style="width:750px;">
+
+
+## This concludes this project. Well done! :clap:
+
+
+https://gist.github.com/rxaviers/7360908 - List of emojis
